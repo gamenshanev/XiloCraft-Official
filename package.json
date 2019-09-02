@@ -1,0 +1,21 @@
+{
+  "name": "justgiveaway",
+  "version": "1.0.0",
+  "description": "maked by IkBenGek",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon"
+  },
+  "author": "IkBenGek/Shane",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "leekslazylogger": "^1.1.0",
+    "ms": "^2.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
